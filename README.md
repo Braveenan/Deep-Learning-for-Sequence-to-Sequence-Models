@@ -1,2 +1,2 @@
 # MERCon2023-RNN
-RNNs for Sequence-to-Sequence Workshop
+Recurrent Neural Networks for Sequence-to-Sequence Workshop
