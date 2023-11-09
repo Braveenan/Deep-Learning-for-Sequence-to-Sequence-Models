@@ -51,7 +51,7 @@ If you prefer, you can also use [Google Colab](https://colab.research.google.com
 
 We would like to acknowledge the following references and sources that have been invaluable in creating this workshop:
 - [Sequence To Sequence Learning With Tensorflow & Keras Tutorial Series](https://www.muratkarakaya.net/2022/11/seq2seq-learning-tutorial-series.html)
-- Liquet, B., Moka, S., & Nazarathy, Y. (2023). The mathematical engineering of deep learning.
+- [Liquet, B., Moka, S., & Nazarathy, Y. (2023). The mathematical engineering of deep learning](https://deeplearningmath.org/sequence-models.html)
 
 ## Contact
 
