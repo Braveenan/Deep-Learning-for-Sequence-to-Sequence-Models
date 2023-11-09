@@ -1,10 +1,18 @@
-# Recurrent Neural Network Workshop - MERCon 2023
+# A Hands-On Workshop in Deep Learning for Sequence-to-Sequence Models - MERCon 2023
 
-Welcome to the "Recurrent Neural Network Workshop" repository for MERCon 2023! This repository contains materials and resources for the hands-on workshop focusing on Recurrent Neural Networks (RNNs) for solving sequence-related problems.
+Welcome to the "A Hands-On Workshop in Deep Learning for Sequence-to-Sequence Models" repository for MERCon 2023! This repository contains materials and resources for the hands-on workshop focusing on Recurrent Neural Networks (RNNs) for solving sequence-related problems.
 
 ## Workshop Overview
 
-RNNs, short for Recurrent Neural Networks, are a fundamental class of deep learning models with the remarkable ability to handle sequential data. If you're curious about how RNNs can be used for understanding languages, predicting numbers over time, or even making creative art, this workshop is the perfect place to start your journey into the world of RNNs.
+Moratuwa Engineering Research Conference 2023 (MERCon 2023) is the 9th international conference organized by the Engineering Research Unit at the University of Moratuwa. As part of MERCon 2023, we are hosting a Hands-On Workshop on Deep Learning for Sequence-to-Sequence Models. This workshop spans four hours and is divided into four one-hour sessions, covering the following topics:
+- Introduction to Sequence-to-Sequence Learning
+- Sequence-to-Sequence Learning with Recurrent Neural Networks (RNNs)
+- Sequence-to-Sequence Learning with Encoder-Decoder Models
+- Sequence-to-Sequence Learning with Encoder-Decoder Models and Attention Mechanisms
+
+[For more information - MERCon 2023](https://mercon.uom.lk)
+
+The focus of this repository is on the 'Sequence-to-Sequence Learning with Recurrent Neural Networks (RNN)' session. Recurrent Neural Networks are a fundamental class of deep learning models known for their exceptional ability to process sequential data. If you're interested in discovering how RNNs can be applied to tasks such as language understanding, time-series prediction, or even generating creative art, this session provides an ideal starting point for your journey into the world of RNNs.
 
 ## Prerequisites
 
@@ -56,4 +64,10 @@ We would like to acknowledge the following references and sources that have been
 ## Contact
 
 If you have questions or need assistance during the workshop, you can reach out to us by creating a GitHub discussion or by contacting us at braveenans.22@cse.mrt.ac.lk.
+
+## Authors
+
+- Dr Uthayasanker Thayasivam - NLP Researcher & Senior Lecturer at the Department of Computer Science & Engineering, University of Moratuwa, Sri Lanka
+- Mr. Sritharan Braveenan - Post-graduate student at the Department of Computer Science & Engineering, University of Moratuwa, Sri Lanka
+
 
