@@ -23,13 +23,13 @@ If you prefer, you can also use [Google Colab](https://colab.research.google.com
 
     - [RNN_worksheet1.ipynb](worksheet/RNN_worksheet1.ipynb): This notebook provides solutions and examples for tackling the "Reverse Sequence Problem" using Recurrent Neural Networks.
 
-    - [RNN_worksheet2.ipynb](worksheet/RNN_worksheet2.ipynb): This notebook provides examples for tackling the "Reverse Sentence Problem" using Recurrent Neural Networks. Use the knowledge from (worksheet/RNN_worksheet1.ipynb) to complete this worksheet and obtain the desired output.
+    - [RNN_worksheet2.ipynb](worksheet/RNN_worksheet2.ipynb): This notebook provides examples for tackling the "Reverse Sentence Problem" using Recurrent Neural Networks. Use the knowledge from [RNN_worksheet1.ipynb](worksheet/RNN_worksheet1.ipynb) to complete this worksheet and obtain the desired output.
 
 - **Solutions:** If you need guidance or have questions, refer to the solution notebooks in the "solutions" folder:
 
-    - [RNN_worksheet1_solution.ipynb](solutions/RNN_worksheet1_solution.ipynb): Solutions and explanations for (worksheet/RNN_worksheet1.ipynb).
+    - [RNN_worksheet1_solution.ipynb](solutions/RNN_worksheet1_solution.ipynb): Solutions and explanations for [RNN_worksheet1.ipynb](worksheet/RNN_worksheet1.ipynb).
     
-    - [RNN_worksheet2_solution.ipynb](solutions/RNN_worksheet2_solution.ipynb): Solutions and explanations for (worksheet/RNN_worksheet2.ipynb).
+    - [RNN_worksheet2_solution.ipynb](solutions/RNN_worksheet2_solution.ipynb): Solutions and explanations for [RNN_worksheet2.ipynb](worksheet/RNN_worksheet2.ipynb).
 
 ## Key Topics Covered
 
@@ -51,9 +51,9 @@ If you prefer, you can also use [Google Colab](https://colab.research.google.com
 
 We would like to acknowledge the following references and sources that have been invaluable in creating this workshop:
 - [Sequence To Sequence Learning With Tensorflow & Keras Tutorial Series](https://www.muratkarakaya.net/2022/11/seq2seq-learning-tutorial-series.html)
-- [Liquet, B., Moka, S., & Nazarathy, Y. (2023). The mathematical engineering of deep learning.]
+- Liquet, B., Moka, S., & Nazarathy, Y. (2023). The mathematical engineering of deep learning.
 
 ## Contact
 
-If you have questions or need assistance during the workshop, you can reach out to us by creating a GitHub discussion or by contacting us at [braveenans.22@cse.mrt.ac.lk].
+If you have questions or need assistance during the workshop, you can reach out to us by creating a GitHub discussion or by contacting us at braveenans.22@cse.mrt.ac.lk.
 
