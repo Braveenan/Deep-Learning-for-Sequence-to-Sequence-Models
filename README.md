@@ -63,7 +63,7 @@ We would like to acknowledge the following references and sources that have been
 
 ## Contact
 
-If you have questions or need assistance during the workshop, you can reach out to us by creating a GitHub discussion or by contacting us at braveenans.22@cse.mrt.ac.lk.
+If you have questions or need assistance during the workshop, you can reach out to us by creating a GitHub discussion or by contacting us at braveenans.22@cse.mrt.ac.lk or [Braveenan Sritharan](https://www.linkedin.com/in/braveenan-sritharan/).
 
 ## Authors
 
